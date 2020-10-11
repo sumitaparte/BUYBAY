@@ -1,0 +1,21 @@
+.payment-container{
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 163px;
+    margin-bottom: 30px;
+}
+
+.payment-text{
+    font-size: 30px;
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.payment-card{
+    width: 300px;
+    border: 1px solid #777;
+    padding: 72px;
+    margin: 20px;
+    box-shadow: 5px 5px 2px 1px #777;
+    margin-bottom: 10rem;
+}
